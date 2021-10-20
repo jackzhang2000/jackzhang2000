@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning and Machine Learning
 - 🌱 I’m currently studying and working in Dalhousie Univeristy, Halifax, Canada
 - 💞️ I’m looking to collaborate on Marine Mammal Accoustic Data Research.
-- 📫 
+- 📫 You could reach me by jack.zhang@dal.ca or +1-902-979-0089 
 
 <!---
 jackzhang2000/jackzhang2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
