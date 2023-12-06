@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jack Zhang
-- 👀 I’m interested in Deep Learning and Machine Learning
+- 👀 I’m interested in Marine Accoustic Deep Learning, Large Language Model and Vex IQ Robotics
 - 🌱 I’m currently studying and working in Dalhousie Univeristy, Halifax, Canada
 - 💞️ I’m looking to collaborate on Marine Mammal Accoustic Data Research.
 - 📫 You could reach me by jack.zhang@dal.ca or +1-873-992-7077 
