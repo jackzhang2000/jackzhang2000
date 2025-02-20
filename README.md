@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jack Zhang
-- 👀 I’m interested in Marine Accoustic Deep Learning, Large Language Model and Vex IQ Robotics
-- 🌱 I’m currently studying and working in Dalhousie Univeristy, Halifax, Canada
-- 💞️ I’m looking to collaborate on Marine Mammal Accoustic Data Research.
+- 👋 Hi, I’m Jack Jie Zhang
+- 👀 I’m interested in Data Analytics, Deep Learning such as Computer vision and Large Language Model and Big Data Engineering (Cloud or local cluster)
+- 🌱 I’m currently looking for data scientist and data engineer jobs in Halifax and hybridly work anywhere in Canada
+- 💞️ I’m holding 3-year open work permit in Canada and applying Canadian PR.
 - 📫 You could reach me by jack.zhang@dal.ca or +1-873-992-7077 
 
 <!---
